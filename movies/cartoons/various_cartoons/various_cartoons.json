@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-09-27T01:31:21.142401Z",
+    "last_updated": "2026-09-27T13:05:02.050961Z",
     "show_name": "Various Cartoons",
     "language": "Hindi",
     "category": "cartoons",
     "description": "Auto-generated category for Various Cartoons.",
-    "total_episodes": 19,
+    "total_episodes": 20,
     "episodes": [
         {
             "id": "w4EZwfxmPYg",
@@ -198,7 +198,7 @@
             "title": "Peppa Pig Tales 2026 🍎 Peppa Learns to PACK Her SCHOOL LUNCHBOX! 🍱 BRAND NEW Peppa Pig Episodes",
             "url": "https://www.youtube.com/watch?v=hyacEIXP3oc",
             "duration": 7258,
-            "view_count": 2322579,
+            "view_count": 2835643,
             "uploader": "Peppa Pig - Official Channel",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/hyacEIXP3oc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoQ-3p7CCeJFTVeT4m7UP4OEWiLg",
@@ -213,6 +213,17 @@
             "uploader": "We Bare Bears Hindi",
             "category": "cartoons/various_cartoons",
             "thumbnail": "https://i.ytimg.com/vi/8bpOE4RXqCo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkTRkSPk1LmVGbOeOuOZ2QymoniQ&usqp=CBQ",
+            "show_name": "Various Cartoons"
+        },
+        {
+            "id": "u_BD1kbDlwo",
+            "title": "Peppa Pig Tales 2026 🫧 Peppa RESTORES the MUDDY FAMILY CAR! 🚗 BRAND NEW Peppa Pig Episodes",
+            "url": "https://www.youtube.com/watch?v=u_BD1kbDlwo",
+            "duration": 7265,
+            "view_count": 592962,
+            "uploader": "Peppa Pig - Official Channel",
+            "category": "cartoons/various_cartoons",
+            "thumbnail": "https://i.ytimg.com/vi/u_BD1kbDlwo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCrot9G37YHB4fPVVIIJB4l6a8FQ",
             "show_name": "Various Cartoons"
         }
     ]

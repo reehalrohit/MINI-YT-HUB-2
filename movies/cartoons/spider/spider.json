@@ -1,0 +1,21 @@
+{
+    "last_updated": "2026-09-27T13:05:02.082270Z",
+    "show_name": "Spider",
+    "language": "Hindi",
+    "category": "cartoons",
+    "description": "Auto-generated category for Spider.",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "id": "9g6-6Sgvu7E",
+            "title": "Spider-Man: Into The Spider-Verse (2026) | Spider-man: Brand New Day - Avengers - Spiderman - Thor",
+            "url": "https://www.youtube.com/watch?v=9g6-6Sgvu7E",
+            "duration": null,
+            "view_count": null,
+            "uploader": "TeamSpider VS",
+            "category": "cartoons/spider",
+            "thumbnail": "https://i.ytimg.com/vi/9g6-6Sgvu7E/hq720.jpg?v=6ab8b5d9&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOBzXiMYTUDK4YO3k20v2ynCbUEA",
+            "show_name": "Spider"
+        }
+    ]
+}
